@@ -1,5 +1,5 @@
 import Nav from "../components/Nav";
-import Main from "@/components/Main";
+import Main from "../components/Main";
 
 const Home = () => {
   return (
